@@ -31,6 +31,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Extract Zip Files From and Back to the S3 Bucket using Node.js](https://aws.plainenglish.io/extract-zip-files-from-and-back-to-the-s3-bucket-using-node-js-f19f009ace22?source=rss-64a1a123e2db------2)
+- [All the shortcuts you need to get faster in the terminal.](https://levelup.gitconnected.com/all-the-shortcuts-you-need-to-get-faster-in-the-terminal-ce91b91ecf91?source=rss-64a1a123e2db------2)
+- [How to upload large files to AWS S3?](https://ankan101.medium.com/how-to-upload-large-files-to-aws-s3-8be5d6da8374?source=rss-64a1a123e2db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
