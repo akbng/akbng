@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to and Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@ankan101,https://dev.to/feed/ankanbag06"
+          feed_list: "https://medium.com/feed/@ankan101" #https://dev.to/feed/ankanbag06 returns 404 error
