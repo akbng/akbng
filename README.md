@@ -28,11 +28,11 @@ Eat - Sleep - Code - Repeat
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Merkle Tree: The Root of Bitcoin](https://enlear.academy/merkle-tree-the-root-of-bitcoin-5a9062394fbf?source=rss-64a1a123e2db------2)
 - [A nerds intro to web 3.0](https://levelup.gitconnected.com/a-nerds-intro-to-web-3-0-c6f7c07417b?source=rss-64a1a123e2db------2)
 - [Learn Blockchain by building it](https://levelup.gitconnected.com/learn-blockchain-by-building-it-f2f8ccc54892?source=rss-64a1a123e2db------2)
 - [Create your own Instagram Filter and share it with the world.](https://levelup.gitconnected.com/create-your-own-instagram-filter-and-share-it-with-the-world-26702c427ea3?source=rss-64a1a123e2db------2)
 - [Extract Zip Files From and Back to the S3 Bucket using Node.js](https://aws.plainenglish.io/extract-zip-files-from-and-back-to-the-s3-bucket-using-node-js-f19f009ace22?source=rss-64a1a123e2db------2)
-- [All the shortcuts you need to get faster in the terminal.](https://levelup.gitconnected.com/all-the-shortcuts-you-need-to-get-faster-in-the-terminal-ce91b91ecf91?source=rss-64a1a123e2db------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanbag101&show_icons=true&locale=en" alt="ankanbag101" /></p>
