@@ -33,7 +33,6 @@ Eat - Sleep - Code - Repeat
 ## ✍ Articles Wrote
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Merkle Tree: The Root of Bitcoin](https://enlear.academy/merkle-tree-the-root-of-bitcoin-5a9062394fbf?source=rss-64a1a123e2db------2)
 - [A nerds intro to web 3.0](https://levelup.gitconnected.com/a-nerds-intro-to-web-3-0-c6f7c07417b?source=rss-64a1a123e2db------2)
 - [Learn Blockchain by building it](https://levelup.gitconnected.com/learn-blockchain-by-building-it-f2f8ccc54892?source=rss-64a1a123e2db------2)
