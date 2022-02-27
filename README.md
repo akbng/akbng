@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [ankan101.medium.com](ankan101.medium.com)
+- 📝 I regularly write articles on [Medium](https://ankan101.medium.com)
 
 - 📫 How to reach me -- **bagankan@gmail.com**
 
