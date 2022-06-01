@@ -43,21 +43,21 @@ Eat - Sleep - Code - Repeat
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankanbag101&theme=dracula" alt="ankanbag101" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akbng&theme=dracula" alt="akbng" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankanbag101&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="ankanbag101" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanbag101&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" alt="ankanbag101" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=akbng&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="akbng" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" alt="akbng" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankanbag101&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="ankanbag101" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akbng&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="akbng" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ankan Bag Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankanbag101&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Ankan Bag Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akbng&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
  <br />
-<p align="center"> <a href="https://github.com/ankanbag101"><img src="https://github-profile-trophy.vercel.app/?username=ankanbag101&margin-w=5&theme=dracula" alt="ankanbag101" /></a> </p>
+<p align="center"> <a href="https://github.com/akbng"><img src="https://github-profile-trophy.vercel.app/?username=akbng&margin-w=5&theme=dracula" alt="akbng" /></a> </p>
 
 <br>
